@@ -1,4 +1,7 @@
 # Java
+【JavaDB1】DB接続の仕組みやJDBCとは何かを基本から理解しよう！
+https://m.youtube.com/watch?v=fkR1htEk6FU
+
 無料webサーバTomcat(トムキャット)のインストールと設定・実行方法【JavaWeb入門講座4】Tomcat
 https://m.youtube.com/watch?v=1D9PeDnONOQ&list=PLru8-xuz0YvycnjfIkn8_Sqpe-n2_5xPN&index=4&pp=iAQB
 
