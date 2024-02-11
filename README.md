@@ -1,4 +1,7 @@
 # Java
+【JavaDB2】MySQLとJDBCドライバをインストールして環境構築しよう！
+https://m.youtube.com/watch?v=-k71tPvKSgI&t=0s
+
 【JavaDB1】DB接続の仕組みやJDBCとは何かを基本から理解しよう！
 https://m.youtube.com/watch?v=fkR1htEk6FU
 
