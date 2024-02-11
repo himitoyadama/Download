@@ -11,8 +11,7 @@ https://m.youtube.com/watch?v=1D9PeDnONOQ&list=PLru8-xuz0YvycnjfIkn8_Sqpe-n2_5xP
 【Java超入門コース】03.環境構築 for Windows｜プログラミングをする準備をしよう！【プログラミング初心者向け入門講座】
 https://m.youtube.com/watch?v=ODziax5tWlY
 
-FavBinEdit
-https://www.soft222.com/favbinedit/
+【Java入門講座 総集編】40分でJavaの特徴を知り、プログラムの作成・実行ができます！
+https://www.youtube.com/watch?v=QeCX5-OmWW8&t=10s
 
-バイナリエディタ
-https://www.vector.co.jp/vpack/filearea/winnt/util/bin/edit
+
