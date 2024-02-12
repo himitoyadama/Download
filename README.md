@@ -1,4 +1,6 @@
 # Java
+eclipseからxamppのmariadbに接続する手順
+https://qiita.com/xmorning777/items/5b49cc1284b57824c87a
 
 Kotlinのコマンドライン実行 
 https://qiita.com/forests-k/items/bdb759f6fb4e9ff11e60
