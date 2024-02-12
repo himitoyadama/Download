@@ -1,4 +1,7 @@
 # Java
+[Tomcat] ポート番号を8080から変更する
+https://pasomaki.com/tomcat-port-change/
+
 【JavaDB6】超重要！JDBCプログラミングの基本を初心者向けに解説
 https://www.youtube.com/watch?v=fUB-yUBVx6o
 
