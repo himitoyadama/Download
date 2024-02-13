@@ -1,0 +1,2 @@
+Tomcat10からservlet-api.jarに含まれるサーブレット関連のパッケージ名が変更されました。
+（Tomcat9以前：javax.～ → Tomcat10：jakarta.～）
