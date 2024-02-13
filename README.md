@@ -1,4 +1,7 @@
 # Java
+【Java超入門コース】06.変数 ｜変数は、例えるなら「箱」のこと。箱にデータを入れておくことができます【プログラミング初心者向け入門講座】
+https://www.youtube.com/watch?v=x0kSA56WxW4&t=0s
+
 【Java超入門コース】05.プログラム実行方法 ｜プログラムを書いて動かしてみよう【プログラミング初心者向け入門講座】
 https://www.youtube.com/watch?v=RfbxroiTwkM&t=0s
 
