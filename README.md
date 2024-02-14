@@ -1,4 +1,7 @@
 # Java
+VSCodeでJava開発 - H2データベースとJDBC接続するまで
+https://qiita.com/e99h2121/items/3bac494452872e9a0644
+
 【Java超入門コース】06.変数 ｜変数は、例えるなら「箱」のこと。箱にデータを入れておくことができます【プログラミング初心者向け入門講座】
 https://www.youtube.com/watch?v=x0kSA56WxW4&t=0s
 
