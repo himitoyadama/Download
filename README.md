@@ -1,4 +1,7 @@
 # Java
+Java Tutorial for Beginners 2023
+https://m.youtube.com/watch?v=BGTx91t8q50
+
 VSCodeでJava開発 - H2データベースとJDBC接続するまで
 https://qiita.com/e99h2121/items/3bac494452872e9a0644
 
